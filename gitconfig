@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = daniel.angerer@me.com
+	name = Daniel Angerer
